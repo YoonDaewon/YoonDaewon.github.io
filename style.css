@@ -1,0 +1,48 @@
+/* 전체 페이지 스타일 */
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f8f9fa;
+  }
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: #4b89dc;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  /* 메인 콘텐츠 영역 */
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 20px;
+  }
+  
+  /* 섹션 스타일 */
+  section {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    color: #4b89dc;
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 0.5rem;
+  }
+  
+  /* 푸터 스타일 */
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: white;
+  }
+  
